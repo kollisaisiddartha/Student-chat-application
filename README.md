@@ -1,0 +1,1 @@
+This GitHub repository hosts a student chat application implemented with Flask, Python's lightweight web framework. The application enables real-time messaging, group chats, user authentication, and file sharing functionalities. Leveraging Mongodb for database interactions, it provides a seamless and responsive user experience across devices.
